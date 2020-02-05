@@ -42,7 +42,7 @@ section {
 }
 
 .btn {
-    cursor: default;
+    cursor: pointer;
     border: none;
     padding: 6px 12px;
     border-radius: 3px;
