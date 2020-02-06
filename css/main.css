@@ -140,7 +140,7 @@ section {
     background-image: url('../img/hero.jpg');
     background-size: cover;
     height: 400px;
-    background-position: center;
+    background-position: center center;
     text-transform: uppercase;
 }
 .hero h1 {
@@ -201,7 +201,7 @@ section {
     font-weight: 200;
     color: #faa541;
 }
-.catergory-text h3 {
+.category-text h3 {
     font-size: 30px;
     font-weight: 700;
     line-height: 1;
