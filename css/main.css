@@ -135,9 +135,9 @@ section {
 }
 /***************************************/
 
-/****** HERO, SALES BANNER STYLES ******/
+/****** HERO, SALE BANNER STYLES ******/
 .hero {
-    background-image: url(./img/hero.jpg);
+    background-image: url(../img/hero.jpg);
     background-size: cover;
     height: 400px;
     background-position: center;
@@ -150,7 +150,7 @@ section {
 .hero h2 {
     color: #faa541;
 }
-.hero h1, h2 {
+.hero h1, .hero h2 {
     font-size: 63px;
     font-weight: 700;
     line-height: 0.9;
@@ -196,7 +196,7 @@ section {
     text-transform: uppercase;
     text-align: center;
 }
-.category-text div {
+.category-text > div {
     font-size: 16px;
     font-weight: 200;
     color: #faa541;
